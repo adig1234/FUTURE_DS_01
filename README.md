@@ -1,5 +1,5 @@
 # FUTURE_DS_01
-internship Task 1 for future intern 
+INTERNSHIP TASK 1 FUTUREINTERN 
 
 # 📊 Superstore Sales Dashboard - Power BI
 
